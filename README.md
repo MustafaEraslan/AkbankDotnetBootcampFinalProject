@@ -1,10 +1,6 @@
 # AkbankDotnetBootcampFinalProject
 
-Kurulum:
-
-git clone https://github.com/omerbilalusta/VB-Bootcamp.git
-
-Veritabanını kurulumunu tamamlamak:
+Veritabanını kurulumunu tamamlamak için:
 .\VB-Bootcamp\API> dotnet ef database update --project  "./Vb-Data" --startup-project "./Vb-Api"
 
 Projeyi çalıştırmakiçin:
